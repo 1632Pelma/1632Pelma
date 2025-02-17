@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @1632Pelma
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning Information Technology at Vaal University of Technology 
-- 💞️ I’m looking to collaborate on Java projects
-- 📪 Reach to me on pelmamonere@gmail.com 
+# 👋 Hi, I'm Pelma!
 
-<!---
-1632Pelma/1632Pelma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm passionate about **software development** and always eager to learn new technologies.  
+🌱 Currently pursuing an **Advanced Diploma in Information Technology** at **Vaal University of Technology**.  
+💡 Interested in **Java projects, web development, and machine learning**.  
+💞 Looking to **collaborate** on exciting **Java projects** and open-source contributions.  
+
+📫 Reach me at **pelmamonere@gmail.com**  
